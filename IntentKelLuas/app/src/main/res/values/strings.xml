@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentKel&amp;Luas</string>
+    <string name="title_activity_keliling">Keliling</string>
+    <string name="title_activity_luas">Luas</string>
+    <string name="move_buttonkeliling">Keliling</string>
+    <string name="move_buttonluas">Luas</string>
+</resources>
